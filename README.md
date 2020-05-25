@@ -3,8 +3,11 @@ How to ACTUALLY install Qualcomm's NPU SDK (modified from https://developer.qual
 
 Assumed prerequisites (very important):
 Ubuntu 16.04
+
 Install latest Android Studio
+
 Install latest SDK and NDK
+
 Python 3.5.2
 
 Caffe installation (modified from https://gist.github.com/arundasan91/b432cb011d1c45b65222d0fac5f9232c - without Anaconda (2)):
