@@ -133,7 +133,6 @@ sudo make runtest
 
 Add this to the .bashrc file in /home/user/, replacing <username> with your system's username:
   
-# Caffe Root
 export CAFFE_ROOT=/home/<username>/caffe/
     
 export PYTHONPATH=/home/<username>/caffe/distribute/python:$PYTHONPATH
